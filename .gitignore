@@ -1,0 +1,7 @@
+.env
+
+.DS_STORE
+
+.idea/
+
+grpc-web-proxy/docs/site/
