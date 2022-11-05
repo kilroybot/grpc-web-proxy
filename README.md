@@ -13,8 +13,9 @@ gRPC-web proxy 🛰️
 
 This `README` provides info about the development process.
 
-For more info about `grpc-web-proxy` itself see `grpc-web-proxy/README.md`
-or [docs](https://kilroybot.github.io/grpc-web-proxy).
+For more info about `grpc-web-proxy` itself see
+[package `README`](grpc-web-proxy/README.md) or
+[docs](https://kilroybot.github.io/grpc-web-proxy).
 
 ## Quickstart
 
